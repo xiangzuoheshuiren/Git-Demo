@@ -12,5 +12,5 @@ hello heshuiren!hello git!
 hello heshuiren!hello git!
 hello heshuiren!hello git!
 hello heshuiren!hello git!
-hello heshuiren!hello git!
+hello heshuiren!hello git! hot-fix test
 hello heshuiren!hello git!
